@@ -1,4 +1,4 @@
-# analisis DB Penguins
+# Analisis DB Penguins
 
 Este repositorio contiene el análisisde un data base de tres variades de pinguinos, distribuidos en tres diferentes islas.
 Realiza las graficas de correlacion entre columnas
@@ -6,9 +6,9 @@ Dirigido a nuevos estudiantes que buscan aplicar las correlaciones en python y s
 
 ## 🧠 Objetivo del Proyecto
 
-- Identificar correlación entre columnas (Ascendente o descendente)
+- Identificar correlación entre columnas
 - Generar graficas de correlación con seaborn y matplotlib
-- Agregar dimensiones a los graficos con el uso de variabes descriptivas
+- Agregar dimensiones a los graficos con el uso de variables descriptivas
 
 
 ## 🛠️ Herramientas y/o Tecnologias Utilizadas
