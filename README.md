@@ -10,13 +10,6 @@ El dataset `everpeak_retail` incluye 2,000 órdenes de clientes con valores falt
   → Notebook principal con limpieza, EDA, distribuciones, outliers y conclusiones.
 
 ## ▶ Cómo abrir el notebook en Google Colab
-
-Haz clic en el siguiente botón:
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](URL_DEL_NOTEBOOK_EN_GITHUB)
-
-O:
-
 1. Abre el archivo `.ipynb` en GitHub
 2. Haz clic en **Open in Colab**
 
@@ -32,3 +25,7 @@ O:
 - Construir un pipeline de limpieza reproducible
 - Analizar comportamientos, distribuciones y outliers
 - Generar insights para el equipo de Estrategia e Integración de EverPeak
+
+## <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/fb264599-cbab-400d-9c73-346afe879027" /> Herramientas Utilizadas
+- Codigo en Python, usando libreria pandas
+- Generacion de graficos con matplotlib y seaborn
